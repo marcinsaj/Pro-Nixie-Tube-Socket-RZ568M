@@ -53,7 +53,7 @@ void setup()
 
 void loop() 
 {
-  for(int i = 0; i <= 10; i++)
+  for(int i = 0; i <= 9; i++)
   {
     NixieDisplay(i, i, i, i);
     delay(1000);
