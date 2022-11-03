@@ -1,8 +1,8 @@
 /*----------------------------------------------------------------------*
  * A simple example of adjusting the brightness                         *
- * of 2 RZ568M nixie tube                                               *
+ * of 2 RZ568M Nixie Tubes                                              *
  *                                                                      *
- * How to connect 2x Pro Nixie Tube Socket to the Arduino:              *
+ * How to connect 2x Pro Nixie Tube Sockets to the Arduino:             *
  * https://bit.ly/PRO-2-ARD                                             *
  *                                                                      *
  * PWM_PIN is dedicated to control tube brightness,                     *
