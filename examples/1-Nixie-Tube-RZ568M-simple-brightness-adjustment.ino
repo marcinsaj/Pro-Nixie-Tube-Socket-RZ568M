@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------*
  * A simple example of adjusting the brightness                         *
- * of 1 RZ568M nixie tube                                               *
+ * of 1 RZ568M Nixie Tube                                               *
  *                                                                      *
  * How to connect 1x Pro Nixie Tube Socket to the Arduino:              *
  * https://bit.ly/PRO-1-ARD                                             *
