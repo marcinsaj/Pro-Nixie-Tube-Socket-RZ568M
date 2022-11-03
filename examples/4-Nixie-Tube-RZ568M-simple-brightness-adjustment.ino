@@ -1,8 +1,8 @@
 /*----------------------------------------------------------------------*
  * A simple example of adjusting the brightness                         *
- * of 4 RZ568M nixie tube                                               *
+ * of 4 RZ568M Nixie Tubes                                              *
  *                                                                      *
- * How to connect 4x Pro Nixie Tube Socket to the Arduino:              *
+ * How to connect 4x Pro Nixie Tube Sockets to the Arduino:             *
  * https://bit.ly/PRO-4-ARD                                             *
  *                                                                      *
  * PWM_PIN is dedicated to control tube brightness,                     *
@@ -61,6 +61,7 @@ void loop()
     delay(1000);
   }
 }
+
 void NixieDisplay(uint8_t tube4, uint8_t tube3, uint8_t tube2, uint8_t tube1)
 {
   digitalWrite(EN_PIN, LOW);                    //Transfer data begin
