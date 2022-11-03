@@ -67,11 +67,11 @@ void NixieDisplay(uint8_t tube6, uint8_t tube5, uint8_t tube4, uint8_t tube3, ui
   SPI.transfer(nixieDigitArray[tube6] >> 8);    //Send first byte
   SPI.transfer(nixieDigitArray[tube6]);         //Send second byte
 
-  SPI.transfer(nixieDigitArray[tube5] >> 8);    //Send first byte
-  SPI.transfer(nixieDigitArray[tube5]);         //Send second byte
+  SPI.transfer(nixieDigitArray[tube5] >> 8);
+  SPI.transfer(nixieDigitArray[tube5]);
   
-  SPI.transfer(nixieDigitArray[tube4] >> 8);    //Send first byte
-  SPI.transfer(nixieDigitArray[tube4]);         //Send second byte
+  SPI.transfer(nixieDigitArray[tube4] >> 8);
+  SPI.transfer(nixieDigitArray[tube4]);
   
   SPI.transfer(nixieDigitArray[tube3] >> 8);
   SPI.transfer(nixieDigitArray[tube3]);
