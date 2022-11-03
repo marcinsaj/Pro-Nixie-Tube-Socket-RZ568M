@@ -3,7 +3,7 @@
  * of 2 RZ568M nixie tube                                               *
  *                                                                      *
  * How to connect 2x Pro Nixie Tube Socket to the Arduino:              *
- * https://bit.ly/PRO-1-ARD                                             *
+ * https://bit.ly/PRO-2-ARD                                             *
  *                                                                      *
  * PWM_PIN is dedicated to control tube brightness,                     *
  * fade in/out and crossfade effect.                                    *
