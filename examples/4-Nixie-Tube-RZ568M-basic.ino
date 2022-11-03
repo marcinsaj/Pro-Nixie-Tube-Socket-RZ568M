@@ -2,7 +2,7 @@
  * A simple example of how to use 4x Pro Nixie Sockets                  *
  * with RZ568M Nixie Tube.                                              *
  *                                                                      *
- * How to connect 2x Pro Nixie Sockets with Arduino:                    *
+ * How to connect 4x Pro Nixie Sockets with Arduino:                    *
  * https://bit.ly/PRO-4-ARD                                             *
  *                                                                      *
  * PWM_PIN is dedicated to control tube brightness,                     *
