@@ -61,6 +61,7 @@ void loop()
     delay(1000);
   }
 }
+
 void NixieDisplay(uint8_t tube2, uint8_t tube1)
 {
   digitalWrite(EN_PIN, LOW);                    //Transfer data begin
