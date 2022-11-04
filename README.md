@@ -16,8 +16,11 @@ Nixie Socket with Driver dedicated for RZ568M Nixie Tube
 - [How to connect 4 sockets to the Arduino](https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/raw/main/datasheet/How-to-Connect-4-Pro-Nixie-Tube-Sockets-to-the-Arduino.pdf)
 - [How to connect 6 sockets to the Arduino](https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/raw/main/datasheet/How-to-Connect-6-Pro-Nixie-Tube-Sockets-to-the-Arduino.pdf)
 
+## PWM
+PWM_PIN is dedicated to control tube brightness, fade in/out and crossfade effect, can also be used to simply turn on/off the tube.
+Sample program codes show only a small part of the potential of PWM control. Due to the different PWM frequencies for different Arduino boards, the [SoftPWM library](https://github.com/bhagman/SoftPWM) was used to standardize and show some of the functionality. PWM control will be further explored in the future in the nixie clock design using pro nixie sockets.
 
-
+##   
 
 <p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/extras/pro-nixie-tube-socket-rz568m_02.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/extras/pro-nixie-tube-socket-rz568m_08.jpg"></p>
