@@ -2,7 +2,7 @@
 Nixie Socket with Driver dedicated for RZ568M Nixie Tube
 
 ## Details
-- [Project website - Datasheet](https://nixietester.com/project/pro-nixie-socket-rz568m/)
+- [Project website](https://nixietester.com/project/pro-nixie-socket-rz568m/)
 - [Availability - How to get](https://nixietester.com/product/pro-nixie-socket-rz568m/)
 
 ## Datasheet
