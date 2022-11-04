@@ -16,4 +16,8 @@ Nixie Socket with Driver dedicated for RZ568M Nixie Tube
 - [Dimensions](https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/raw/main/datasheet/Pro-Nixie-Tube-Socket-RZ568M-Dimensions.pdf)
 - [Nixie tube pins used](https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/raw/main/datasheet/H3161-PRO-Nixie-Socket-Pins.pdf)
 
+
+<p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/datasheet/pro-nixie-tube-socket-rz568m-pcb-t.png"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/datasheet/pro-nixie-tube-socket-rz568m-pcb-pinout-description.png"></p>
+<p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/datasheet/pro-nixie-tube-socket-rz568m-pcb-b.png"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Pro-Nixie-Tube-Socket-RZ568M/blob/main/datasheet/Schematic-Pro-Nixie-Tube-Socket-RZ568M.png"></p>
